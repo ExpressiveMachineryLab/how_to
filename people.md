@@ -23,7 +23,7 @@ Projects: LuminAI
 ## Admin staff
 
 ### Michael Terrell
-Michael Terrell is a legendary admiinstrative superstar. As he is excellent, he is also in high demand. If you can't find answers on your own, no one you asks knows, or it's an emergency, contact Michael.
+Michael Terrell is a legendary adminstrative superstar. Because he is excellent, he is also in high demand. If you can't find answers on  your own, no one you asks knows, or it's an emergency, contact Michael. He prefers to be contacted by Slack (he checks messages regularly). 
 
 Slack: `@michael.terrell`
 
