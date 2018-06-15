@@ -1,6 +1,6 @@
 # Lab meetings
 
-The lab's projects all have weekly meetings. Check the calendar for confirmation, but here's a summary:
+In addition to individual meetings with advisors (these will be arranged with you if relevant), the lab's projects all have weekly meetings. Check the calendar for confirmation, but here's a summary:
 
 ## Monday
 
