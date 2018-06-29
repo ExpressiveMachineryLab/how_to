@@ -1,4 +1,4 @@
-# Lab computer passwords
+# Lab computer logins
 
 These are the login and passwords for the common lab computers:
 
