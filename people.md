@@ -18,7 +18,10 @@ Projects: Robot Improv Circus, MImE
 ### Duri Long, PhD student
 Slack: `@duri`
 
-Projects: LuminAI
+Projects: LuminAI, TuneTable/SoundHappening evaluation
+
+### Anna Weisling, PhD student
+Slack: `@aweisling`
 
 ## Admin staff
 
