@@ -1,7 +1,5 @@
 # How to set up a printer on your laptop
 
-## Please note: To use the printer you must be connected to `GTWifi`. If you have problems, first check that you're not connected to Eduroam!
-
 These instructions are for setting up printing to the printer in the lab hallway. These instructions are for Mac OS X.
 
 ## 1. Find your printer settings and add a new printer.
